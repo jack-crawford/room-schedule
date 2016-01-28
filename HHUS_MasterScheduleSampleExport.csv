@@ -1,0 +1,419 @@
+Number.Section ,Course Name ,Expression ,Term ,Teacher Name ,Teacher Dept. ,Room ,Students ,Max Seats
+7179.1,ACTIVITY CREDIT - FALL ,19(D) ,S1 ,"Sweeney, Gary ",Fine Arts ,WAC Stage ,9,50
+7379.1,ACTIVITY CREDIT - SPRING ,19(F) ,S2 ,"Sweeney, Gary ",Fine Arts ,WAC Stage ,0,50
+7279.1,ACTIVITY CREDIT - WINTER ,19(E) ,S2 ,"Sweeney, Gary ",Fine Arts ,WAC Stage ,8,50
+8099AT.1 ,ADV CHINESE CULTURE/LIT-IndSdy ,3-4(C) ,15-16 ,"Chen, May ",Intl Lang ,,2,2
+1120.1,ADV.BIO INQUIRY: ECOLOGY H ,"5-6(B,F) 13-14(C) 16-18(A,E) ",S1 ,"Martin, Sam ",Science ,US 221 ,8,4
+1155.1,ADV.BIO INQUIRY: GENOMICS H ,"1-2(A) 4-6(E) 13-14(F) 16(B) 17-18(B,D) ",S1 ,"Shingleton, Keri ",Science ,US 218 ,16,16
+1232.1,ADV.BIO: MICROBES AND DISEASE H ,"1-2(A) 4-6(E) 13-14(F) 16(B) 17-18(B,D) ",S2 ,"Shingleton, Keri ",Science ,US 218 ,18,16
+7239.1,ADVANCED ART A - CERAMICS ,"13-15(A,E) 16-18(C) ",S2 ,"Spencer, Laurie ",Fine Arts ,WAC Ceram ,6,12
+7240.1,ADVANCED ART A - PAINTING/MULTIMEDIA ,"1-2(A) 7-8(A) 9(A,D-E) 10(D) ",S2 ,"Shen, Byron ",Fine Arts ,WAC Paint ,6,3
+7039.1,ADVANCED ART BC - CERAMICS ,"7-9(A,C,E) ",15-16 ,"Spencer, Laurie ",Fine Arts ,WAC Ceram ,8,12
+7041.1,ADVANCED ART BC - PHOTO ,"13-15(B,D) 16-18(F) ",15-16 ,"Abufadil, Mazen ",Fine Arts ,WAC Photo ,5,6
+7040.1,ADVANCED ART BC-PAINTING/MULTIMEDIA ,"7-9(A,C,E) ",15-16 ,"Shen, Byron ",Fine Arts ,WAC Paint ,8,9
+8014.1,ADVISOR MTG** ,19(A) ,15-16 ,"Holmes, Karen ",Math ,US 114 ,8,12
+8014.2,ADVISOR MTG** ,19(A) ,15-16 ,"Reichard, Jamie ",Soc Study ,US 230 ,8,12
+8014.4,ADVISOR MTG** ,19(A) ,15-16 ,"Sweeney, Gary ",Fine Arts ,WAC Shop ,2,12
+8014.5,ADVISOR MTG** ,19(A) ,15-16 ,"Sweeney, Phil ",Soc Study ,US 207 ,10,12
+8014.6,ADVISOR MTG** ,19(A) ,15-16 ,"Butler, Robert E. ",English ,US 206 ,4,12
+8014.7,ADVISOR MTG** ,19(A) ,15-16 ,"Spencer, Richard ",Math ,US 202 ,10,12
+8014.8,ADVISOR MTG** ,19(A) ,15-16 ,"Cauthon, Amy ",Intl Lang ,US 138 ,5,12
+8014.9,ADVISOR MTG** ,19(A) ,15-16 ,"Rose, Cathy ",Math ,US 116 ,6,12
+8014.1,ADVISOR MTG** ,19(A) ,15-16 ,"Muir, Phil ",PE/Ath ,US 126 ,12,12
+8014.11,ADVISOR MTG** ,19(A) ,15-16 ,"Arnold, Paige ",Science ,US 224 ,8,12
+8014.12,ADVISOR MTG** ,19(A) ,15-16 ,"Martin, Olivia ",Non-depart ,US 142 ,6,12
+8014.13,ADVISOR MTG** ,19(A) ,15-16 ,"Scrutchins, Rev. Arthur ",Religion ,US Library ,5,12
+8014.14,ADVISOR MTG** ,19(A) ,15-16 ,"Berglund, Michael ",English ,US 214 ,9,12
+8014.15,ADVISOR MTG** ,19(A) ,15-16 ,"Shingleton, Keri ",Science ,Office 215 ,11,12
+8014.16,ADVISOR MTG** ,19(A) ,15-16 ,"Brokaw, Debbie ",Non-depart ,LectureCtr ,11,12
+8014.17,ADVISOR MTG** ,19(A) ,15-16 ,"Bergenroth, Neil ",Science ,US 223 ,8,12
+8014.18,ADVISOR MTG** ,19(A) ,15-16 ,"Casey, Brent ",Non-depart ,Office 131 ,7,12
+8014.2,ADVISOR MTG** ,19(A) ,15-16 ,"Hart, Richard ",PE/Ath ,Office 139 ,5,12
+8014.22,ADVISOR MTG** ,19(A) ,15-16 ,"Heldebrand, Steve ",PE/Ath ,Office 124 ,10,12
+8014.23,ADVISOR MTG** ,19(A) ,15-16 ,"Cooper, Ronda ",Non-depart ,Office 131 ,7,12
+8014.24,ADVISOR MTG** ,19(A) ,15-16 ,"Pounds, Stephanie ",Math ,US 119 ,9,12
+8014.25,ADVISOR MTG** ,19(A) ,15-16 ,"Brown, Lana ",English ,Office 128 ,7,12
+8014.26,ADVISOR MTG** ,19(A) ,15-16 ,"Boots-Marshall, Jennifer ",English ,US 234 ,9,12
+8014.27,ADVISOR MTG** ,19(A) ,15-16 ,"Parker, Nathan ",English ,Office 103 ,4,12
+8014.28,ADVISOR MTG** ,19(A) ,15-16 ,"Schmidt, Whitney '99 ",English ,US 229 ,8,12
+8014.29,ADVISOR MTG** ,19(A) ,15-16 ,"Dickson, Kim ",Intl Lang ,US 127 ,8,12
+8014.3,ADVISOR MTG** ,19(A) ,15-16 ,"Udwin, Whitney '01 ",Intl Lang ,US 205 ,6,12
+8014.31,ADVISOR MTG** ,19(A) ,15-16 ,"Utter, Christy ",PE/Ath ,US 109 ,9,12
+8014.32,ADVISOR MTG** ,19(A) ,15-16 ,"Bloom, Dan ",Science ,US 217 ,5,12
+8014.33,ADVISOR MTG** ,19(A) ,15-16 ,"Beckwith, Jane ",Soc Study ,US 203 ,6,12
+8014.34,ADVISOR MTG** ,19(A) ,15-16 ,"Lowry, Ashlee ",Non-depart ,131B Co ,5,12
+8014.35,ADVISOR MTG** ,19(A) ,15-16 ,"Fondren, Frances ",Non-depart ,Office 135 ,5,12
+8014.36,ADVISOR MTG** ,19(A) ,15-16 ,"Moore, Anne Marie ",Math ,Office 117 ,4,12
+8014.37,ADVISOR MTG** ,19(A) ,15-16 ,"Chen, May ",Intl Lang ,Office 105 ,2,12
+8014.38,ADVISOR MTG** ,19(A) ,15-16 ,"Simpson, Teri ",Math ,US 118 ,6,12
+8014.39,ADVISOR MTG** ,19(A) ,15-16 ,"Williams-McKnight, Eder ",English ,US Library ,4,12
+8014.42,ADVISOR MTG** ,19(A) ,15-16 ,"Abufadil, Mazen ",Fine Arts ,WAC Photo ,2,12
+8014.43,ADVISOR MTG** ,19(A) ,15-16 ,"Baumann, Nancy ",Science ,US 227 ,6,12
+8014.44,ADVISOR MTG** ,19(A) ,15-16 ,"Bennett, John '70 ",Math ,US 221 ,9,12
+8014.45,ADVISOR MTG** ,19(A) ,15-16 ,"Burke, Maureen ",Intl Lang ,US 232 ,9,12
+8014.46,ADVISOR MTG** ,19(A) ,15-16 ,"Carey, Gregory ",Soc Study ,US 233 ,11,12
+8014.48,ADVISOR MTG** ,19(A) ,15-16 ,"Culley, JP ",,Office 140 ,5,12
+8014.49,ADVISOR MTG** ,19(A) ,15-16 ,"Ford, Joe ",Comp Sci ,US 121 ,7,12
+8014.5,ADVISOR MTG** ,19(A) ,15-16 ,"Glover, Lynn  ",Intl Lang ,US 231 ,7,12
+8014.52,ADVISOR MTG** ,19(A) ,15-16 ,"Gross, Tag '87 ",Soc Study ,US 204 ,9,12
+2010.1,ALGEBRA I ,"1-2(E) 5-6(A) 13-14(B,D) 17-18(F) ",15-16 ,"Moore, Anne Marie ",Math ,US 116 ,11,14
+2010.2,ALGEBRA I ,"1-2(E) 5-6(A) 13-14(B,D) 17-18(F) ",15-16 ,"Pounds, Stephanie ",Math ,US 119 ,10,14
+2010.3,ALGEBRA I ,"1-2(B,F) 5-6(D) 13-14(A,E) ",15-16 ,"Moore, Anne Marie ",Math ,US 114 ,13,14
+2010.4,ALGEBRA I ,"3-4(B,D,F) 15-16(A,E) ",15-16 ,"Pounds, Stephanie ",Math ,US 119 ,11,14
+2030.1,ALGEBRA II ,"5-6(C,E) 13-14(F) 17-18(B,D) ",15-16 ,"Simpson, Teri ",Math ,US 118 ,12,16
+2030.2,ALGEBRA II ,"1-2(C,E) 13-14(B,D) 17-18(F) ",15-16 ,"Holmes, Karen ",Math ,US 114 ,8,16
+2030.3,ALGEBRA II ,"7-8(B,D,F) 11-12(C,E) ",15-16 ,"Holmes, Karen ",Math ,US 114 ,15,16
+2030.4,ALGEBRA II ,"3-4(B,D,F) 15-16(C,E) ",15-16 ,"Holmes, Karen ",Math ,US 114 ,15,16
+2035.1,ALGEBRA II ESSENTIALS ,"5-6(C,E) 13-14(F) 17-18(B,D) ",15-16 ,"Simpson, Teri ",Math ,US 118 ,0,18
+2031.1,ALGEBRA IIH ,"1-2(A) 5-6(C,E) 13-14(F) 17-18(D) ",15-16 ,"Moore, Anne Marie ",Math ,US 116 ,11,16
+2031.2,ALGEBRA IIH ,"9-10(A,C-F) ",15-16 ,"Moore, Anne Marie ",Math ,US 116 ,9,16
+8099AS.1 ,ALT PROCESS PHOTO-IND.STDY ,7-9(D) 13-18(F) ,15-16 ,"Abufadil, Mazen ",Fine Arts ,WAC Photo ,1,5
+9102.1,ALTERNATIVE SPORTS (FALL) ,19(D) ,S1 ,"Rowland, Cathy ",PE/Ath ,US Gym ,25,99
+9302.1,ALTERNATIVE SPORTS (SPRING) ,19(F) ,S2 ,"Rowland, Cathy ",PE/Ath ,US Gym ,36,99
+9202.1,ALTERNATIVE SPORTS (WINTER) ,19(E) ,S2 ,"Rowland, Cathy ",PE/Ath ,US Gym ,27,99
+3035.1,AMERICAN STUDIES - ENGLISH ,"1-2(A) 4(C) 5-6(C,E) 13-15(F) 17-18(D) ",15-16 ,"Butler, Robert E. ",English ,US 214 ,15,16
+3035.2,AMERICAN STUDIES - ENGLISH ,"7-8(C,E) 9(C) 10(F) 11-12(B,D,F) ",15-16 ,"Butler, Robert E. ",English ,US 214 ,14,16
+3035.3,AMERICAN STUDIES - ENGLISH ,"1-2(B,F) 3(F) 5-6(D) 13-14(E) 16-18(C) ",15-16 ,"Butler, Robert E. ",English ,US 214 ,13,16
+3035.4,AMERICAN STUDIES - ENGLISH ,"1-2(C,E) 3(C) 13-14(B,D) 16-18(F) ",15-16 ,"Parker, Nathan ",English ,US 214 ,13,16
+3035.5,AMERICAN STUDIES - ENGLISH ,"7-8(D,F) 9(F) 10(C) 11-12(A,C,E) ",15-16 ,"Parker, Nathan ",English ,US 214 ,14,16
+3035.6,AMERICAN STUDIES - ENGLISH ,"1-2(D) 4-6(F) 13-15(C) 17-18(A,E) ",15-16 ,"Parker, Nathan ",English ,US 214 ,12,16
+4035.1,AMERICAN STUDIES - HISTORY ,"1-2(A) 4(C) 5-6(C,E) 13-15(F) 17-18(D) ",15-16 ,"Sweeney, Phil ",Soc Study ,US 214 ,15,16
+4035.2,AMERICAN STUDIES - HISTORY ,"7-8(C,E) 9(C) 10(F) 11-12(B,D,F) ",15-16 ,"Sweeney, Phil ",Soc Study ,US 214 ,14,16
+4035.3,AMERICAN STUDIES - HISTORY ,"1-2(B,F) 3(F) 5-6(D) 13-14(E) 16-18(C) ",15-16 ,"Sweeney, Phil ",Soc Study ,US 214 ,13,16
+4035.4,AMERICAN STUDIES - HISTORY ,"1-2(C,E) 3(C) 13-14(B,D) 16-18(F) ",15-16 ,"Brown, Lana ",English ,US 214 ,13,16
+4035.5,AMERICAN STUDIES - HISTORY ,"7-8(D,F) 9(F) 10(C) 11-12(A,C,E) ",15-16 ,"Brown, Lana ",English ,US 214 ,14,16
+4035.6,AMERICAN STUDIES - HISTORY ,"1-2(D) 4-6(F) 13-15(C) 17-18(A,E) ",15-16 ,"Brown, Lana ",English ,US 214 ,12,16
+2040.1,ANALYSIS ,"1-2(C) 5-6(A) 13-14(B,D) 17-18(F) ",15-16 ,"Rose, Cathy ",Math ,US 207 ,12,16
+2040.2,ANALYSIS ,"1-2(B,F) 5-6(D) 13-14(A) 17-18(C) ",15-16 ,"Rose, Cathy ",Math ,US 116 ,16,16
+2040.3,ANALYSIS ,"1-2(D) 5-6(B,F) 13-14(C) 17-18(A) ",15-16 ,"Rose, Cathy ",Math ,US 116 ,16,16
+2041.1,ANALYSIS H ,"1-2(D) 5-6(B) 13-14(C) 17-18(A,E) ",15-16 ,"Holmes, Karen ",Math ,US 114 ,13,16
+8299AZ.1 ,ANCIENT GREEK-Ind.Study ,3-4(B) ,S2 ,"Dickson, Kim ",Intl Lang ,,1,5
+2051.1,AP CALCULUS AB ,9-10(A-F) ,15-16 ,"Rose, Cathy ",Math ,US 114 ,18,20
+2061.1,AP CALCULUS BC ,"7-8(A,C,E) 10(F) 11-12(B,D,F) ",15-16 ,"Holmes, Karen ",Math ,US 118 ,8,16
+1075.1,AP CHEMISTRY ,"1-2(C,E) 5-6(A) 13-15(B,D) 16-18(F) ",15-16 ,"Bergenroth, Neil ",Science ,US 223 ,14,16
+1280.1,AP PHYSICS 'C' MECHANICS ,"1-2(B,F) 5-6(D) 13-14(A,E) 17-18(C) ",S2 ,"Arnold, Paige ",Science ,US 217 ,4,16
+2071.1,AP STATISTICS ,"1-2(C,E) 5-6(A) 13-14(B,D) 17-18(F) ",15-16 ,"Simpson, Teri ",Math ,US 118 ,14,18
+2071.2,AP STATISTICS ,"1-2(B,F) 5-6(D) 13-14(A,E) 17-18(C) ",15-16 ,"Simpson, Teri ",Math ,US 118 ,15,18
+1265.1,ASTRONOMY ,"3-4(B,D,F) 15-16(A,C) ",S2 ,"Baumann, Nancy ",Science ,US 227 ,9,16
+9173.1,ATHLETIC TRAINER (FALL) ,19(D) ,S1 ,"Mansfield, James ",PE/Ath ,US Gym ,2,6
+9373.1,ATHLETIC TRAINER (SPRING) ,19(F) ,S2 ,"Mansfield, James ",PE/Ath ,US Gym ,3,6
+9273.1,ATHLETIC TRAINER (WINTER) ,19(E) ,S2 ,"Mansfield, James ",PE/Ath ,US Gym ,1,6
+9355.1,BASEBALL ,19(F) ,S2 ,"Robison, Stephen ",PE/Ath ,US Gym ,18,99
+9243.1,BASKETBALL (BOYS) ,19(E) ,S2 ,"Maddux, Brandon ",PE/Ath ,US Gym ,27,99
+9242.1,BASKETBALL (GIRLS) ,19(E) ,S2 ,"Lawson, Crystal ",PE/Ath ,US Gym ,13,99
+1020.1,BIOLOGY ,"1-2(B,F) 3(F) 5-6(D) 13-14(E) 16-18(C) ",15-16 ,"Martin, Sam ",Science ,US 221 ,10,16
+1020.2,BIOLOGY ,"1-2(C,E) 3(C) 13-14(B,D) 16-18(F) ",15-16 ,"Shingleton, Keri ",Science ,US 218 ,14,16
+1020.3,BIOLOGY ,"7-8(C,E) 9(C) 10(F) 11-12(B,D,F) ",15-16 ,"Martin, Sam ",Science ,US 218 ,11,16
+1020.4,BIOLOGY ,"7-8(B,D,F) 9(F) 10(C) 11-12(C,E) ",15-16 ,"Martin, Sam ",Science ,US 218 ,12,16
+1020.5,BIOLOGY ,"1-2(B,F) 3(F) 5-6(D) 13-14(E) 16-18(C) ",15-16 ,"Shingleton, Keri ",Science ,US 218 ,11,16
+1020.6,BIOLOGY ,"1-2(D) 4(F) 5-6(B,F) 13-15(C) 17-18(E) ",15-16 ,"Shingleton, Keri ",Science ,US 218 ,13,16
+7151.1,CERAMICS I ,"13-15(B,D) 16-18(F) ",S1 ,"Spencer, Laurie ",Fine Arts ,WAC Ceram ,8,12
+7251.1,CERAMICS I ,"10-12(A,C,E) ",S2 ,"Spencer, Laurie ",Fine Arts ,WAC Ceram ,11,12
+7152.1,CERAMICS II ,"1-3(C,E) 4-6(A) ",S1 ,"Spencer, Laurie ",Fine Arts ,WAC Ceram ,9,12
+7252.1,CERAMICS II ,"7-9(B,D,F) ",S2 ,"Spencer, Laurie ",Fine Arts ,WAC Ceram ,8,12
+7153.1,CERAMICS III ,"13-15(A,E) 16-18(C) ",S1 ,"Spencer, Laurie ",Fine Arts ,WAC Ceram ,6,8
+7253.1,CERAMICS III ,"1-3(A) 4-6(C,E) ",S2 ,"Spencer, Laurie ",Fine Arts ,WAC Ceram ,6,7
+7154.1,CERAMICS IV ,"13-15(A,E) 16-18(C) ",S1 ,"Spencer, Laurie ",Fine Arts ,WAC Ceram ,0,4
+7254.1,CERAMICS IV ,"1-3(A) 4-6(C,E) ",S2 ,"Spencer, Laurie ",Fine Arts ,WAC Ceram ,1,5
+9135.1,CHEERLEADING (FALL) ,19(D) ,S1 ,"Rowland, Cathy ",PE/Ath ,US Gym ,14,99
+9235.1,CHEERLEADING (WINTER) ,19(E) ,S2 ,"Rowland, Cathy ",PE/Ath ,US Gym ,14,99
+1030.1,CHEMISTRY ,"1-2(A) 4-6(E) 13-14(F) 16(B) 17-18(B,D) ",15-16 ,"Arnold, Paige ",Science ,US 221 ,10,16
+1030.2,CHEMISTRY ,"1-3(E) 5-6(A) 13-14(B,D) 15(B) 17-18(F) ",15-16 ,"Arnold, Paige ",Science ,US 221 ,11,16
+1030.3,CHEMISTRY ,"7-8(B,D,F) 9(B) 10(E) 11-12(A,E) ",15-16 ,"Arnold, Paige ",Science ,US 221 ,9,16
+1030.4,CHEMISTRY ,"7-8(A,E) 9(E) 10(B) 11-12(B,D,F) ",15-16 ,"Bergenroth, Neil ",Science ,US 223 ,13,16
+1030.5,CHEMISTRY ,"7-8(B,D,F) 9(B) 10(E) 11-12(A,E) ",15-16 ,"Bergenroth, Neil ",Science ,US 223 ,11,16
+1030.6,CHEMISTRY ,"1-2(B,F) 3(B) 5-6(D) 13-14(A,E) 15(E) ",15-16 ,"Bergenroth, Neil ",Science ,US 223 ,9,16
+70.1,CHINESE I ,"7-8(A,E) 11-12(B,D,F) ",15-16 ,"Chen, May ",Intl Lang ,US 202 ,6,18
+72.1,CHINESE II ,"1-2(A) 5-6(C,E) 13-14(F) 17-18(B) ",15-16 ,"Chen, May ",Intl Lang ,US 202 ,3,18
+74.1,CHINESE III ,"1-2(D) 5-6(B,F) 13-14(C) 17-18(A) ",15-16 ,"Chen, May ",Intl Lang ,US 202 ,9,18
+77.1,CHINESE IVH ,"1-2(B) 5-6(D) 13-14(A,E) 17-18(C) ",15-16 ,"Chen, May ",Intl Lang ,US 202 ,6,18
+8015.1,COLLEGE COUNSELOR ,20(A) ,15-16 ,"Lowry, Ashlee ",Non-depart ,Commons ,29,40
+8015.2,COLLEGE COUNSELOR ,20(A) ,15-16 ,"Casey, Brent ",Non-depart ,Commons ,18,40
+8015.3,COLLEGE COUNSELOR ,20(A) ,15-16 ,"Cooper, Ronda ",Non-depart ,Commons ,26,40
+8225.1,COLLEGE SEMINAR ,3-4(A) ,S2 ,"Casey, Brent  ",Non-depart ,LectureCtr ,33,40
+8225.2,COLLEGE SEMINAR ,9-10(A) ,S2 ,"Casey, Brent  ",Non-depart ,LectureCtr ,23,40
+8225.3,COLLEGE SEMINAR ,11-12(A) ,S2 ,"Casey, Brent  ",Non-depart ,LectureCtr ,25,40
+5110.1,COMPARATIVE RELIGION ,"1-2(F) 13-14(A,E) 17-18(C) ",S1 ,"Scrutchins, Rev. Arthur ",Religion ,US 231 ,17,18
+5110.2,COMPARATIVE RELIGION ,"7-8(F) 11-12(A,C,E) ",S1 ,"Scrutchins, Rev. Arthur ",Religion ,US 232 ,17,18
+5110.3,COMPARATIVE RELIGION ,"5-6(F) 13-14(C) 17-18(A,E) ",S1 ,"Scrutchins, Rev. Arthur ",Religion ,US 230 ,16,18
+5220.1,COMPARATIVE RELIGION ,"3-4(C,E) 15-16(B,F) ",S2 ,"Scrutchins, Rev. Arthur ",Religion ,US 234 ,16,18
+5220.2,COMPARATIVE RELIGION ,"7-8(B,F) 11-12(C,E) ",S2 ,"Scrutchins, Rev. Arthur ",Religion ,US 232 ,19,18
+1010.1,CONCEPTUAL PHYSICS AND CHEM ,"1-2(A) 5-6(C,E) 13-14(F) 17-18(B,D) ",15-16 ,"Baumann, Nancy ",Science ,US 227 ,15,16
+1010.2,CONCEPTUAL PHYSICS AND CHEM ,"3-4(A,C,E) 15-16(B,D,F) ",15-16 ,"Baumann, Nancy ",Science ,US 227 ,14,16
+1010.3,CONCEPTUAL PHYSICS AND CHEM ,"1-2(C,E) 5-6(A) 13-14(B,D) 17-18(F) ",15-16 ,"Baumann, Nancy ",Science ,US 227 ,18,16
+1010.4,CONCEPTUAL PHYSICS AND CHEM ,"7-8(A,C,E) 11-12(B,D,F) ",15-16 ,"Bennett, John '70 ",Math ,US 227 ,12,16
+1010.5,CONCEPTUAL PHYSICS AND CHEM ,9-10(A-F) ,15-16 ,"Bennett, John '70 ",Math ,US 227 ,13,16
+7014.1,CONCERT BAND I ,"3-4(B,F) 15-16(C,E) ",15-16 ,"Barnett, Dale  ",Fine Arts ,WAC Instr ,13,20
+7015.1,CONCERT BAND II ,"3-4(B,F) 15-16(C,E) ",15-16 ,"Barnett, Dale  ",Fine Arts ,WAC Instr ,9,20
+7016.1,CONCERT BAND III ,"3-4(B,F) 15-16(C,E) ",15-16 ,"Barnett, Dale  ",Fine Arts ,WAC Instr ,11,20
+7017.1,CONCERT BAND IV ,"3-4(B,F) 15-16(C,E) ",15-16 ,"Barnett, Dale  ",Fine Arts ,WAC Instr ,10,20
+7050.1,CONCERT CHORUS I ,"7-8(C,E) 11-12(B,F) ",15-16 ,"Dyer, Steve  ",Fine Arts ,WAC Vocal ,43,50
+7051.1,CONCERT CHORUS II ,"7-8(C,E) 11-12(B,F) ",15-16 ,"Dyer, Steve  ",Fine Arts ,WAC Vocal ,28,50
+7052.1,CONCERT CHORUS III ,"7-8(C,E) 11-12(B,F) ",15-16 ,"Dyer, Steve  ",Fine Arts ,WAC Vocal ,16,50
+7053.1,CONCERT CHORUS IV ,"7-8(C,E) 11-12(B,F) ",15-16 ,"Dyer, Steve  ",Fine Arts ,WAC Vocal ,8,50
+4013.1,CONTEMP ISSUES-HISTORY-ORIGINS ,"1-2(A) 5-6(C) 17-18(B,D) ",15-16 ,"Beckwith, Jane ",Soc Study ,US 233 ,16,16
+4013.2,CONTEMP ISSUES-HISTORY-ORIGINS ,"7-8(A,C) 11-12(B,D) ",15-16 ,"Beckwith, Jane ",Soc Study ,US 233 ,14,16
+4013.3,CONTEMP ISSUES-HISTORY-ORIGINS ,9-10(A-D) ,15-16 ,"Beckwith, Jane ",Soc Study ,US 233 ,13,16
+4013.4,CONTEMP ISSUES-HISTORY-ORIGINS ,"7-8(B,D) 11-12(A,C) ",15-16 ,"Carey, Gregory ",Soc Study ,US 233 ,17,16
+4013.5,CONTEMP ISSUES-HISTORY-ORIGINS ,1-2(B) 5-6(D) 13-14(A) 17-18(C) ,15-16 ,"Carey, Gregory ",Soc Study ,US 233 ,12,16
+4013.6,CONTEMP ISSUES-HISTORY-ORIGINS ,1-2(D) 5-6(B) 13-14(C) 17-18(A) ,15-16 ,"Carey, Gregory ",Soc Study ,US 233 ,15,16
+4013L.1 ,CONTEMP ISSUES-Lecture ,10-12(E) ,15-16 ,"Beckwith, Jane  ",Soc Study ,LectureCtr ,31,40
+4013L.2 ,CONTEMP ISSUES-Lecture ,13-15(F) ,15-16 ,"Beckwith, Jane  ",Soc Study ,LectureCtr ,36,40
+4013L.3 ,CONTEMP ISSUES-Lecture ,10-12(F) ,15-16 ,"Beckwith, Jane  ",Soc Study ,LectureCtr ,20,40
+9167.1,CREW ,19(D) ,S1 ,"Bergenroth, Neil ",Science ,US Gym ,2,99
+9141.1,CROSS COUNTRY (BOYS) ,19(D) ,S1 ,"Spencer, Greg ",PE/Ath ,US Gym ,19,99
+9140.1,CROSS COUNTRY (GIRLS) ,19(D) ,S1 ,"Spencer, Greg ",PE/Ath ,US Gym ,15,99
+8410.1,DEPT HEADS ,3-4(A) ,15-16 ,"Fondren, Frances  ",Non-depart ,US 207 ,0,20
+8020.1,DESIGN AND INNOVATION ,"9-10(A,D) ",15-16 ,"Shingleton, Keri  ",Science ,US 217 ,7,16
+7133.1,DRAWING I ,"1-3(A) 4-6(C,E) ",S1 ,"Shen, Byron ",Fine Arts ,WAC Draw ,5,8
+7133.2,DRAWING I ,"13-15(A,E) 16-18(C) ",S1 ,"Shen, Byron ",Fine Arts ,WAC Draw ,6,8
+7133.3,DRAWING I ,"13-15(B,D) 16-18(F) ",S1 ,"Shen, Byron ",Fine Arts ,WAC Draw ,6,8
+7233.1,DRAWING I ,"1-3(C,E) 4-6(A) ",S2 ,"Shen, Byron ",Fine Arts ,WAC Draw ,9,7
+7134.1,DRAWING II ,"1-3(A) 4-6(C,E) ",S1 ,"Shen, Byron ",Fine Arts ,WAC Draw ,1,4
+7134.2,DRAWING II ,"13-15(A,E) 16-18(C) ",S1 ,"Shen, Byron ",Fine Arts ,WAC Draw ,2,4
+7134.3,DRAWING II ,"13-15(B,D) 16-18(F) ",S1 ,"Shen, Byron ",Fine Arts ,WAC Draw ,3,4
+7234.1,DRAWING II ,"1-3(C,E) 4-6(A) ",S2 ,"Shen, Byron ",Fine Arts ,WAC Draw ,3,5
+8170.1,DRIVER AND SAFETY EDUCATION ,7-8(A) ,S1 ,"Grober, Sparky ",Non-depart ,US 232 ,9,15
+8170.2,DRIVER AND SAFETY EDUCATION ,1-2(A) ,S1 ,"Grober, Sparky ",Non-depart ,US 114 ,3,15
+8270.1,DRIVER AND SAFETY EDUCATION ,7-8(A) ,S2 ,"Grober, Sparky ",Non-depart ,US 234 ,12,10
+8270.2,DRIVER AND SAFETY EDUCATION ,7-8(F) ,S2 ,"Grober, Sparky ",Non-depart ,US 234 ,8,18
+1110.1,ECOLOGY ,"5-6(B,F) 13-14(C) 16-18(A,E) ",S1 ,"Martin, Sam ",Science ,US 221 ,8,12
+3229.1,ENG IV-AUSTEN TO FIELDING ,"7-8(B,D,F) 11-12(C,E) ",S2 ,"Boots-Marshall, Jennifer ",English ,US 207 ,13,16
+3229H.1 ,ENG IV-AUSTEN TO FIELDING H ,"7-8(B,D,F) 11-12(C,E) ",S2 ,"Boots-Marshall, Jennifer ",English ,US 207 ,3,16
+3219.1,ENG IV-CONTEMP WORLD LIT ,"1-2(A) 5-6(C) 13-14(F) 17-18(B,D) ",S2 ,"Brown, Lana ",English ,US 205 ,7,16
+3219H.1 ,ENG IV-CONTEMP WORLD LIT H ,"1-2(A) 5-6(C) 13-14(F) 17-18(B,D) ",S2 ,"Brown, Lana ",English ,US 205 ,1,16
+3282.1,ENG IV-CREATIVE WRITING ,"1-2(D) 5-6(F) 13-14(C) 17-18(A,E) ",S2 ,"Butler, Robert E. ",English ,US 118 ,11,16
+3282H.1 ,ENG IV-CREATIVE WRITING H ,"1-2(D) 5-6(F) 13-14(C) 17-18(A,E) ",S2 ,"Butler, Robert E. ",English ,US 118 ,5,16
+3117.1,ENG IV-DYSTOPIAN FICTION ,"1-2(A) 5-6(C,E) 17-18(B,D) ",S1 ,"Parker, Nathan ",English ,US 207 ,9,16
+3117H.1 ,ENG IV-DYSTOPIAN FICTION H ,"1-2(A) 5-6(C,E) 17-18(B,D) ",S1 ,"Parker, Nathan ",English ,US 207 ,4,16
+3140.1,ENG IV-FILM AS LITERATURE ,"1-3(D) 4-6(B,F) ",S1 ,"Butler, Robert E. ",English ,LectureCtr ,8,16
+3140H.1 ,ENG IV-FILM AS LITERATURE H ,"1-3(D) 4-6(B,F) ",S1 ,"Butler, Robert E. ",English ,LectureCtr ,0,16
+3116.1,ENG IV-FOLKLORE LITERATURE ,"1-2(A) 5-6(C,E) 13-14(F) 17-18(B) ",S1 ,"Schmidt, Whitney '99 ",English ,US 229 ,10,16
+3116H.1 ,ENG IV-FOLKLORE LITERATURE H ,"1-2(A) 5-6(C,E) 13-14(F) 17-18(B) ",S1 ,"Schmidt, Whitney '99 ",English ,US 229 ,3,16
+3114.1,ENG IV-LIT AND HUMAN NATURE ,"7-8(B,D,F) 11-12(A,E) ",S1 ,"Williams-McKnight, Eder ",English ,US 207 ,8,16
+3114H.1 ,ENG IV-LIT AND HUMAN NATURE H ,"7-8(B,D,F) 11-12(A,E) ",S1 ,"Williams-McKnight, Eder ",English ,US 207 ,2,16
+3218.1,ENG IV-LIT OF 2ND WORLD WAR ,"5-6(B,F) 13-14(C) 17-18(A,E) ",S2 ,"Gross, Tag '87  ",Soc Study ,US 230 ,18,18
+3218H.1 ,ENG IV-LIT OF 2ND WORLD WAR H ,"5-6(B,F) 13-14(C) 17-18(A,E) ",S2 ,"Gross, Tag '87  ",Soc Study ,US 230 ,0,18
+3120H.1 ,ENG IV-LIT OF SUPERNATURAL H ,"1-2(B,F) 5-6(D) 13-14(E) 17-18(C) ",S1 ,"Boots-Marshall, Jennifer ",English ,US 207 ,2,16
+3120.1,ENG IV-LIT OF THE SUPERNATURAL ,"1-2(B,F) 5-6(D) 13-14(E) 17-18(C) ",S1 ,"Boots-Marshall, Jennifer ",English ,US 207 ,13,16
+3112.1,ENG IV-MILLENNIAL LITERATURE ,"1-2(B,F) 13-14(A,E) 17-18(C) ",S1 ,"Brown, Lana ",English ,US 203 ,5,16
+3112H.1 ,ENG IV-MILLENNIAL LITERATURE H ,"1-2(B,F) 13-14(A,E) 17-18(C) ",S1 ,"Brown, Lana ",English ,US 203 ,0,16
+3223.1,ENG IV-POETRY-BLACK EXPER ,"7-8(B,D,F) 11-12(A,E) ",S2 ,"Williams-McKnight, Eder ",English ,US 206 ,10,16
+3223H.1 ,ENG IV-POETRY-BLACK EXPER H ,"7-8(B,D,F) 11-12(A,E) ",S2 ,"Williams-McKnight, Eder ",English ,US 206 ,2,16
+3135H.1 ,ENG IV-POSTMODERNISM AM LIT H ,"7-8(D,F) 11-12(A,C,E) ",S1 ,"Berglund, Michael ",English ,US 206 ,4,16
+3135.1,ENG IV-POSTMODERNISM IN AMER LIT ,"7-8(D,F) 11-12(A,C,E) ",S1 ,"Berglund, Michael ",English ,US 206 ,12,16
+3292.1,ENG IV-WRITING IN PUBLIC ,"1-2(A) 5-6(C,E) 17-18(B,D) ",S2 ,"Parker, Nathan ",English ,US 207 ,3,16
+3292H.1 ,ENG IV-WRITING IN PUBLIC H ,"1-2(A) 5-6(C,E) 17-18(B,D) ",S2 ,"Parker, Nathan ",English ,US 207 ,4,16
+8099AU.1 ,EPIC POETRY-Indep.Study ,9-10(F) ,15-16 ,"Dickson, Kim ",Intl Lang ,,2,2
+5230.1,ETHICS ,"9-10(A-B,D-E) ",S2 ,"Schmidt, Whitney '99 ",English ,US 230 ,10,18
+3012.1,EXPOSITION AND ARGUMENTATION ,"9-10(A-D,F) ",15-16 ,"Williams-McKnight, Eder ",English ,US 206 ,11,16
+3012.2,EXPOSITION AND ARGUMENTATION ,"1-2(B,F) 5-6(D) 13-14(A) 17-18(C) ",15-16 ,"Williams-McKnight, Eder ",English ,US 206 ,16,16
+3012.3,EXPOSITION AND ARGUMENTATION ,"1-2(A) 5-6(C,E) 17-18(B,D) ",15-16 ,"Berglund, Michael ",English ,US 206 ,16,16
+3012.4,EXPOSITION AND ARGUMENTATION ,"3-4(B,D) 15-16(A,C,E) ",15-16 ,"Williams-McKnight, Eder ",English ,US 206 ,14,16
+3012.5,EXPOSITION AND ARGUMENTATION ,"3-4(B,D) 15-16(A,C,E) ",15-16 ,"Berglund, Michael ",English ,US 207 ,16,16
+3012.6,EXPOSITION AND ARGUMENTATION ,"1-2(D) 5-6(B) 13-14(C) 17-18(A,E) ",15-16 ,"Berglund, Michael ",English ,US 206 ,16,16
+8299BC.1 ,FACIAL RECOG-EMOTIONS IndStudy ,17-18(A) ,S2 ,"Shingleton, Keri ",Science ,,1,18
+9150.1,FIELD HOCKEY ,19(D) ,S1 ,"Utter, Christy ",PE/Ath ,US Gym ,35,99
+9111.1,FITNESS (FALL) ,19(D) ,S1 ,"Udwin, Whitney '01 ",Intl Lang ,US Gym ,19,99
+9311.1,FITNESS (SPRING) ,19(F) ,S2 ,"Udwin, Whitney '01 ",Intl Lang ,US Gym ,18,99
+9171.1,FOOTBALL ,19(D) ,S1 ,"Gross, Tag '87 ",Soc Study ,US Gym ,43,99
+10.1,FRENCH I ,"7-8(C,E) 11-12(B,D,F) ",15-16 ,"Udwin, Whitney '01 ",Intl Lang ,US 205 ,10,18
+12.1,FRENCH II ,"1-2(F) 5-6(D) 13-14(A,E) 17-18(C) ",15-16 ,"Udwin, Whitney '01 ",Intl Lang ,US 205 ,12,18
+14.1,FRENCH III ,"1-2(A) 5-6(C,E) 17-18(B,D) ",15-16 ,"Fondren, Frances ",Non-depart ,US 232 ,7,18
+19.1,FRENCH IVH ,"1-2(E) 5-6(A) 13-14(B,D) 17-18(F) ",15-16 ,"Udwin, Whitney '01 ",Intl Lang ,US 205 ,10,18
+21.1,FRENCH VH ,"9-10(A-C,E-F) ",15-16 ,"Udwin, Whitney '01 ",Intl Lang ,US 205 ,11,18
+123.1,FRENCH VIH ,"1-2(A) 5-6(C) 13-14(F) 17-18(B,D) ",S1 ,"Udwin, Whitney '01 ",Intl Lang ,US 205 ,7,18
+8051.1,FRESHMAN WELLNESS ,5-6(A) ,15-16 ,"Muir, Phil  ",PE/Ath ,US 114 ,17,20
+8051.2,FRESHMAN WELLNESS ,11-12(A) ,15-16 ,"Muir, Phil  ",PE/Ath ,US 114 ,19,20
+8051.3,FRESHMAN WELLNESS ,15-16(B) ,15-16 ,"Muir, Phil  ",PE/Ath ,US 116 ,18,20
+8051.4,FRESHMAN WELLNESS ,9-10(B) ,15-16 ,"Muir, Phil  ",PE/Ath ,US 118 ,18,20
+8051.5,FRESHMAN WELLNESS ,7-8(C) ,15-16 ,"Muir, Phil  ",PE/Ath ,US 116 ,15,20
+8099AV.1 ,GENE EXPRESSION-Ind.Study ,"3-4(B) 11-16(B,D,F) 17-18(F) ",15-16 ,"Shingleton, Keri ",Science ,,1,5
+1050.1,GEOLOGY ,"1-2(B,F) 13-14(A,E) 15(E) 17-18(C) ",15-16 ,"Baumann, Nancy ",Science ,US 227 ,14,16
+1050.2,GEOLOGY ,,15-16 ,"Baumann, Nancy ",Science ,,0,16
+2020.1,GEOMETRY ,"1-2(A) 5-6(C,E) 13-14(F) 17-18(B) ",15-16 ,"Bennett, John '70 ",Math ,US 119 ,15,16
+2020.2,GEOMETRY ,"1-2(C,E) 5-6(A) 13-14(B) 17-18(F) ",15-16 ,"Bennett, John '70 ",Math ,US 206 ,11,16
+2020.3,GEOMETRY ,"7-8(B,F) 11-12(A,C,E) ",15-16 ,"Moore, Anne Marie ",Math ,US 116 ,14,16
+2020.4,GEOMETRY ,"1-2(B,F) 13-14(A,E) 17-18(C) ",15-16 ,"Pounds, Stephanie ",Math ,US 119 ,16,16
+2020.5,GEOMETRY ,"5-6(B,F) 13-14(C) 17-18(A,E) ",15-16 ,"Pounds, Stephanie ",Math ,US 119 ,14,16
+2021.1,GEOMETRY H ,"1-2(B,F) 5-6(D) 13-14(A) 17-18(C) ",15-16 ,"Bennett, John '70 ",Math ,US 217 ,6,16
+9345.1,GOLF (BOYS) ,19(F) ,S2 ,"Underwood, Brian ",PE/Ath ,US Gym ,10,99
+9344.1,GOLF (GIRLS) ,19(F) ,S2 ,"Stirling, Ryon ",PE/Ath ,US Gym ,2,99
+4043.1,HISTORY OF DOWNTOWN TULSA ,"3-4(B,D) 15-16(A,C) ",15-16 ,"Beckwith, Jane ",Soc Study ,US 233 ,11,12
+8177.1,HOLLAND HALL 101 ,"3-4(A,C,E) ",S1 ,"Brokaw, Debbie  ",Non-depart ,US 109 ,15,16
+8177.2,HOLLAND HALL 101 ,"9-10(A,C,E) ",S1 ,"Brokaw, Debbie  ",Non-depart ,US 109 ,14,16
+8299.1,INDEPENDENT STUDY (SPRING) ,,S2 ,"Ford, Joe ",Comp Sci ,,0,5
+8099.1,INDEPENDENT STUDY (YEAR) ,,15-16 ,"Ford, Joe ",Comp Sci ,,0,5
+7066.1,INSTRUMENT SOLO AND ENSEMBLE I ,3-4(A) 15-16(D) ,15-16 ,"Richardson, Sarah ",Fine Arts ,WAC Instr ,3,20
+7067.1,INSTRUMENT SOLO AND ENSEMBLE II ,3-4(A) 15-16(D) ,15-16 ,"Richardson, Sarah ",Fine Arts ,WAC Instr ,2,20
+7068.1,INSTRUMENT SOLO AND ENSEMBLE III ,3-4(A) 15-16(D) ,15-16 ,"Richardson, Sarah ",Fine Arts ,WAC Instr ,5,20
+7069.1,INSTRUMENT SOLO AND ENSEMBLE IV ,3-4(A) 15-16(D) ,15-16 ,"Richardson, Sarah ",Fine Arts ,WAC Instr ,1,20
+2272.1,INTRO TO APPLIED STATISTICS ,"3-4(A,C,E) 15-16(B,F) ",S2 ,"Simpson, Teri ",Math ,US 118 ,16,18
+3022.1,INTRO TO LITERARY ANALYSIS ,"7-8(A,C,E) 11-12(D,F) ",15-16 ,"Boots-Marshall, Jennifer ",English ,US 229 ,15,16
+3022.2,INTRO TO LITERARY ANALYSIS ,"9-10(A,C-F) ",15-16 ,"Boots-Marshall, Jennifer ",English ,US 229 ,11,16
+3022.3,INTRO TO LITERARY ANALYSIS ,"7-8(D,F) 11-12(A,C,E) ",15-16 ,"Schmidt, Whitney '99 ",English ,US 229 ,11,16
+3022.4,INTRO TO LITERARY ANALYSIS ,"1-2(F) 5-6(D) 13-14(A,E) 17-18(C) ",15-16 ,"Schmidt, Whitney '99 ",English ,US 229 ,11,16
+3022.5,INTRO TO LITERARY ANALYSIS ,"1-2(D) 5-6(F) 13-14(C) 17-18(A,E) ",15-16 ,"Boots-Marshall, Jennifer ",English ,US 229 ,12,16
+3022.6,INTRO TO LITERARY ANALYSIS ,"1-2(E) 5-6(A) 13-14(B,D) 17-18(F) ",15-16 ,"Schmidt, Whitney '99 ",English ,US 229 ,12,16
+2173.1,INTRO TO STATISTICS ,"7-8(B,D,F) 11-12(C,E) ",S1 ,"Simpson, Teri ",Math ,US 118 ,11,18
+2173.2,INTRO TO STATISTICS ,"1-2(D) 5-6(B,F) 13-14(C) 17-18(E) ",S1 ,"Simpson, Teri ",Math ,US 118 ,9,18
+4241.1,INTRODUCTION TO ECONOMICS ,"7-8(B,D,F) 11-12(C) ",S2 ,"Reichard, Jamie ",Soc Study ,US 230 ,15,12
+6240.1,INTRODUCTION TO PROGRAMMING ,"7-8(B,D) 11-12(A,E) ",S2 ,"Ford, Joe ",Comp Sci ,US 109 ,2,16
+7045.1,JAZZ ENSEMBLE I ,3-4(D) 15-16(A) ,15-16 ,"Barnett, Dale  ",Fine Arts ,WAC Instr ,7,20
+7046.1,JAZZ ENSEMBLE II ,3-4(D) 15-16(A) ,15-16 ,"Barnett, Dale  ",Fine Arts ,WAC Instr ,5,20
+7047.1,JAZZ ENSEMBLE III ,3-4(D) 15-16(A) ,15-16 ,"Barnett, Dale  ",Fine Arts ,WAC Instr ,6,20
+7048.1,JAZZ ENSEMBLE IV ,3-4(D) 15-16(A) ,15-16 ,"Barnett, Dale  ",Fine Arts ,WAC Instr ,7,20
+8032.1,JOURNALISM I ,"1-2(D) 5-6(B) 13-14(C) 17-18(A,E) ",15-16 ,"Sokolosky, Shirley ",Non-depart ,US 121B ,14,20
+31.1,LATIN II ,"1-2(C,E) 5-6(A) 13-14(D) 17-18(F) ",15-16 ,"Dickson, Kim ",Intl Lang ,US 203 ,6,18
+33.1,LATIN III ,"1-2(A) 5-6(C,E) 17-18(B,D) ",15-16 ,"Dickson, Kim ",Intl Lang ,US 203 ,11,18
+44.1,LATIN IV H ,"1-2(D) 5-6(B,F) 13-14(C) 17-18(E) ",15-16 ,"Dickson, Kim ",Intl Lang ,US 203 ,9,18
+45.1,LATIN V H ,9-10(A-E) ,15-16 ,"Dickson, Kim ",Intl Lang ,US 203 ,4,18
+2013.1,MATH I: ALGEBRA I ,"1-2(E) 5-6(A) 13-14(B,D) 17-18(F) ",15-16 ,"Pounds, Stephanie ",Math ,US 119 ,1,18
+2033.1,MATH III: ALGEBRA II ,"3-4(F) 5-6(C,E) 7-8(B,D) 13-14(F) 17-18(B,D) ",15-16 ,"Simpson, Teri ",Math ,US 118 ,3,18
+9998.1,MINDFULNESS MOD ,3(E) ,15-16 ,"Scrutchins, Rev. Arthur ",Religion ,CHAPEL ,0,0
+9998.2,MINDFULNESS MOD ,3(A) ,15-16 ,"Beckwith, Jane ",Soc Study ,CHAPEL ,0,0
+9998.3,MINDFULNESS MOD ,4(B) ,15-16 ,"Fondren, Frances ",Non-depart ,CHAPEL ,0,0
+9998.4,MINDFULNESS MOD ,3(C) ,15-16 ,"Carey, Gregory ",Soc Study ,CHAPEL ,0,0
+9998.5,MINDFULNESS MOD ,4(F) ,15-16 ,"Myers, Ryan ",,CHAPEL ,0,0
+9225.1,MOD DANCE I PE ,"1-3(E) 13-15(B,D) ",S2 ,"Shillingford, Tyne ",Fine Arts ,WAC Dance ,2,20
+9127.1,MOD DANCE II PE ,"1-2(C,E) 3(A,C,E) 4-5(A) 19(E) ",S1 ,"Shillingford, Tyne ",Fine Arts ,WAC Dance ,1,20
+9227.1,MOD DANCE II PE ,"1-3(E) 13-15(B,D) ",S2 ,"Shillingford, Tyne ",Fine Arts ,WAC Dance ,1,20
+8299BB.1 ,MODERN POLITICS-Ind.Study ,1-2(F) 7-8(C) ,S2 ,"Brown, Lana ",English ,Office ,1,5
+9131.1,OFF SEASON PROGRAM (FALL) ,19(D) ,S1 ,"Muir, Phil ",PE/Ath ,US Gym ,44,99
+9331.1,OFF SEASON PROGRAM (SPRING) ,19(F) ,S2 ,"Muir, Phil ",PE/Ath ,US Gym ,33,99
+9231.1,OFF SEASON PROGRAM (WINTER) ,19(E) ,S2 ,"Muir, Phil ",PE/Ath ,US Gym ,43,99
+6245.1,OFFICE SUITE INTEGRATION ,,S2 ,"Ford, Joe ",Comp Sci ,US 109 ,0,16
+1160.1,ORGANIC CHEMISTRY H ,"1-3(D) 5-6(B,F) 13-14(C) 16(A) 17-18(A,E) ",S1 ,"Arnold, Paige ",Science ,US 223 ,16,16
+7030.1,PAINTING I/II ,"13-15(F) 16-18(B,D) ",15-16 ,"Shen, Byron ",Fine Arts ,WAC Paint ,12,12
+9411.1,PE/ATH MEDICAL EXCUSE (FALL) ,19(D) ,S1 ,"Rowland, Cathy ",PE/Ath ,,4,50
+9412.1,PE/ATH MEDICAL EXCUSE (WINTER) ,19(E) ,S2 ,"Rowland, Cathy ",PE/Ath ,US Gym ,1,99
+4233.1,PHILOSOPHY OF EDUC ,"3-4(D,F) 15-16(A,C) ",S2 ,"Carey, Gregory ",Soc Study ,US 229 ,6,12
+8180.1,PHILOSOPHY OF MINDFULNESS ,"3-4(A,E) 15-16(B,D) ",S1 ,"Carey, Gregory ",Soc Study ,US 233 ,7,12
+7132.1,PHOTOGRAPHY I ,"3(C,E) 4(A,C,E) 5-6(C,E) ",S1 ,"Abufadil, Mazen ",Fine Arts ,WAC Photo ,6,13
+7132.2,PHOTOGRAPHY I ,"10-12(A,C,E) ",S1 ,"Abufadil, Mazen ",Fine Arts ,WAC Photo ,6,13
+7232.1,PHOTOGRAPHY I ,"1-2(C) 3-4(A,C) 5-6(A) ",S2 ,"Abufadil, Mazen ",Fine Arts ,WAC Photo ,5,13
+7232.2,PHOTOGRAPHY I ,"13-15(C) 16-18(A,E) ",S2 ,"Abufadil, Mazen ",Fine Arts ,WAC Photo ,6,13
+7160.1,PHOTOGRAPHY II ,"7-9(A,C,E) ",S1 ,"Abufadil, Mazen ",Fine Arts ,WAC Photo ,4,6
+7260.1,PHOTOGRAPHY II ,"10-12(A,C,E) ",S2 ,"Abufadil, Mazen ",Fine Arts ,WAC Photo ,1,4
+1040.1,PHYSICS ,"1-2(A) 5-6(E) 13-14(F) 17-18(B,D) ",15-16 ,"Bloom, Dan ",Science ,US 217 ,17,18
+1040.2,PHYSICS ,"1-2(E) 5-6(A) 13-14(B,D) 17-18(F) ",15-16 ,"Bloom, Dan ",Science ,US 217 ,18,18
+1040.3,PHYSICS ,"3-4(B,D,F) 15-16(A,E) ",15-16 ,"Bloom, Dan ",Science ,US 217 ,18,18
+1065.1,PHYSICS HONORS ,"7-8(B,D,F) 11-12(A,C,E) ",15-16 ,"Bloom, Dan ",Science ,US 217 ,12,16
+8299BA.1 ,PLANT-ANIMAL BEHAVIOR-IndStudy ,3-4(D) 15-16(A) ,S2 ,"Martin, Sam ",Science ,Office 215 ,1,5
+2175.1,PROBLEM SOLVING ,"9-10(A,C-D,F) ",S1 ,"Pounds, Stephanie ",Math ,US 119 ,7,18
+8099AW.1 ,PSYCHOLOGY-Ind.Study ,7-8(A) 15-16(D) ,15-16 ,"Brown, Lana ",English ,US 232 ,1,5
+6235.1,ROBOTICS ,"1-2(F) 5-6(D) 13-14(A,E) 17-18(C) ",S2 ,"Ford, Joe ",Comp Sci ,US 109 ,3,16
+9992T.1 ,S1 Eng Class ,1(B) ,S1 ,"Teacher, Ima ",,US2228 ,2,10
+9994T.1 ,S2 History Class (H) ,1(C) ,S2 ,"Teacher, Ima ",,US2231 ,1,10
+8253.1,SENIOR SEMINAR ,5-6(D) ,S2 ,"Muir, Phil  ",PE/Ath ,LectureCtr ,26,40
+8253.2,SENIOR SEMINAR ,3-4(E) ,S2 ,"Muir, Phil  ",PE/Ath ,LectureCtr ,20,40
+8253.3,SENIOR SEMINAR ,15-16(E) ,S2 ,"Muir, Phil  ",PE/Ath ,LectureCtr ,27,40
+7055.1,SINGERS I ,7-8(A) 11-12(D) ,15-16 ,"Dyer, Steve  ",Fine Arts ,WAC Vocal ,25,20
+7056.1,SINGERS II ,7-8(A) 11-12(D) ,15-16 ,"Dyer, Steve  ",Fine Arts ,WAC Vocal ,6,20
+7057.1,SINGERS III ,7-8(A) 11-12(D) ,15-16 ,"Dyer, Steve  ",Fine Arts ,WAC Vocal ,6,20
+7058.1,SINGERS IV ,7-8(A) 11-12(D) ,15-16 ,"Dyer, Steve  ",Fine Arts ,WAC Vocal ,0,20
+8512.1,SOC/ST DEPT ,5-6(A) ,15-16 ,"Sweeney, Phil  ",Soc Study ,US 230 ,0,20
+9253.1,SOCCER (BOYS) ,19(E) ,S2 ,"Hart, Richard ",PE/Ath ,US Gym ,47,99
+9252.1,SOCCER (GIRLS) ,19(E) ,S2 ,"Pounds, Stephanie ",Math ,US Gym ,24,99
+9354.1,SOFTBALL ,19(F) ,S2 ,"Rowland, Cathy ",PE/Ath ,US Gym ,16,99
+8152.1,SOPHOMORE WELLNESS ,15-16(D) ,S1 ,"Muir, Phil  ",PE/Ath ,LectureCtr ,16,20
+8152.2,SOPHOMORE WELLNESS ,9-10(D) ,S1 ,"Muir, Phil  ",PE/Ath ,LectureCtr ,15,20
+8152.3,SOPHOMORE WELLNESS ,5-6(D) ,S1 ,"Muir, Phil  ",PE/Ath ,LectureCtr ,13,20
+8152.4,SOPHOMORE WELLNESS ,3-4(D) ,S1 ,"Muir, Phil  ",PE/Ath ,US 116 ,15,20
+8152.5,SOPHOMORE WELLNESS ,11-12(F) ,S1 ,"Muir, Phil  ",PE/Ath ,US 206 ,11,20
+95.1,SPANISH: ADVANCED A HONORS ,"1-2(C,E) 5-6(A) 13-14(B,D) ",15-16 ,"Cauthon, Amy ",Intl Lang ,US 234 ,14,18
+95.2,SPANISH: ADVANCED A HONORS ,"1-2(B) 5-6(D) 13-14(A,E) 17-18(C) ",15-16 ,"Cauthon, Amy ",Intl Lang ,US 234 ,11,18
+96.1,SPANISH: ADVANCED B HONORS ,"7-8(C,E) 11-12(B,D,F) ",15-16 ,"Burke, Maureen ",Intl Lang ,US 232 ,9,18
+96.2,SPANISH: ADVANCED B HONORS ,"1-2(B,F) 5-6(D) 13-14(E) 17-18(C) ",15-16 ,"Burke, Maureen ",Intl Lang ,US 232 ,9,18
+97.1,SPANISH: ADVANCED C HONORS ,"1-2(C,E) 3(C) 5-6(A) 13-14(B,D) ",15-16 ,"Burke, Maureen ",Intl Lang ,US 232 ,10,18
+93.1,SPANISH: INTENSIVE A ,"1-2(A) 5-6(C,E) 13-14(F) 17-18(B) ",15-16 ,"Cauthon, Amy ",Intl Lang ,US 234 ,14,18
+93.2,SPANISH: INTENSIVE A ,"3-4(B,F) 15-16(A,C,E) ",15-16 ,"Cauthon, Amy ",Intl Lang ,US 234 ,8,18
+94.1,SPANISH: INTENSIVE B ,"9-10(A-D,F) ",15-16 ,"Glover, Lynn  ",Intl Lang ,US 231 ,16,18
+94.2,SPANISH: INTENSIVE B ,"1-2(D) 5-6(B,F) 13-14(C) 17-18(A) ",15-16 ,"Cauthon, Amy ",Intl Lang ,US 234 ,14,18
+91.1,SPANISH: INTERMEDIATE A ,"1-2(A) 5-6(C,E) 13-14(F) 17-18(D) ",15-16 ,"Glover, Lynn  ",Intl Lang ,US 231 ,11,18
+91.2,SPANISH: INTERMEDIATE A ,"7-8(A,C,E) 11-12(D,F) ",15-16 ,"Glover, Lynn  ",Intl Lang ,US 231 ,10,18
+92.1,SPANISH: INTERMEDIATE B ,"9-10(A-B,D-F) ",15-16 ,"Burke, Maureen ",Intl Lang ,US 232 ,14,18
+92.2,SPANISH: INTERMEDIATE B ,"1-2(D) 5-6(B,F) 17-18(A,E) ",15-16 ,"Burke, Maureen ",Intl Lang ,US 232 ,17,18
+90.1,SPANISH: UPPER SCHOOL INTRO ,"3-4(C,E) 15-16(B,D,F) ",15-16 ,"Glover, Lynn  ",Intl Lang ,US 231 ,10,18
+90.2,SPANISH: UPPER SCHOOL INTRO ,"1-2(D) 5-6(B,F) 13-14(C) 17-18(E) ",15-16 ,"Glover, Lynn  ",Intl Lang ,US 231 ,8,18
+9105.1,SPORTS VIDEO AND EDITING ,19(D) ,S1 ,"Sweeney, Phil ",Soc Study ,US Gym ,4,99
+7165.1,STAGECRAFT ,"13-15(F) 16-18(B,D) ",S1 ,"Sweeney, Gary ",Fine Arts ,WAC Shop ,0,10
+7265.1,STAGECRAFT ,"7-9(A,C,E) ",S2 ,"Sweeney, Gary ",Fine Arts ,WAC Shop ,5,10
+7035.1,STRING ORCHESTRA I ,"3-4(C,E) 15-16(B,F) ",15-16 ,"Richardson, Sarah ",Fine Arts ,WAC Instr ,10,20
+7036.1,STRING ORCHESTRA II ,"3-4(C,E) 15-16(B,F) ",15-16 ,"Richardson, Sarah ",Fine Arts ,WAC Instr ,4,20
+7037.1,STRING ORCHESTRA III ,"3-4(C,E) 15-16(B,F) ",15-16 ,"Richardson, Sarah ",Fine Arts ,WAC Instr ,12,20
+7038.1,STRING ORCHESTRA IV ,"3-4(C,E) 15-16(B,F) ",15-16 ,"Richardson, Sarah ",Fine Arts ,WAC Instr ,5,20
+9990.1,STUDY STN ,"1-2(A,E) ",15-16 ,"Cooper, Ronda ",Non-depart ,US 204 ,0,0
+9990.2,STUDY STN ,3-4(A) ,15-16 ,"Holmes, Karen ",Math ,US 204 ,0,0
+9990.3,STUDY STN ,5-6(A) ,15-16 ,"Shingleton, Keri ",Science ,US 204 ,0,0
+9990.4,STUDY STN ,4(E) 7-8(A) ,15-16 ,"Simpson, Teri ",Math ,US 204 ,0,0
+9990.5,STUDY STN ,9-10(A-B) ,15-16 ,"Klar, Braken ",,US 204 ,0,0
+9990.6,STUDY STN ,11-12(A) ,15-16 ,"Sweeney, Phil ",Soc Study ,US 204 ,0,0
+9990.7,STUDY STN ,13-14(A) ,15-16 ,"Sokolosky, Shirley ",Non-depart ,US 204 ,0,0
+9990.8,STUDY STN ,15-16(A) ,15-16 ,"Burke, Maureen ",Intl Lang ,US 204 ,0,0
+9990.9,STUDY STN ,17-18(A) ,15-16 ,"Bloom, Dan ",Science ,US 204 ,0,0
+9990.1,STUDY STN ,1-2(B) ,15-16 ,"Glover, Lynn  ",Intl Lang ,US 204 ,0,0
+9990.11,STUDY STN ,3-6(B) ,15-16 ,"Boots-Marshall, Jennifer ",English ,US 204 ,0,0
+9990.12,STUDY STN ,5-6(D) 7-8(B) ,15-16 ,"Pounds, Stephanie ",Math ,US 204 ,0,0
+9990.13,STUDY STN ,11-12(B) ,15-16 ,"Parker, Nathan ",English ,US 204 ,0,0
+9990.14,STUDY STN ,9-10(F) 13-14(B) ,15-16 ,"Gross, Tag '87 ",Soc Study ,US 204 ,0,0
+9990.15,STUDY STN ,15-16(B) ,15-16 ,"Casey, Brent ",Non-depart ,US 204 ,0,0
+9990.16,STUDY STN ,3(E) 17-18(B) ,15-16 ,"Brown, Lana ",English ,US 204 ,0,0
+9990.17,STUDY STN ,1-4(C) ,15-16 ,"Reichard, Jamie ",Soc Study ,US 204 ,0,0
+9990.18,STUDY STN ,5-6(C) ,15-16 ,"Rose, Cathy ",Math ,US 204 ,0,0
+9990.19,STUDY STN ,7-8(C) ,15-16 ,"Bergenroth, Neil ",Science ,US 204 ,0,0
+9990.2,STUDY STN ,"9-10(C,E) ",15-16 ,"Cauthon, Amy ",Intl Lang ,US 204 ,0,0
+9990.21,STUDY STN ,11-12(C) ,15-16 ,"Meadows, Audra ",,US 204 ,0,0
+9990.22,STUDY STN ,"13-14(C,E) ",15-16 ,"Bennett, John '70 ",Math ,US 204 ,0,0
+9990.23,STUDY STN ,15-16(C) ,15-16 ,"Arnold, Paige ",Science ,US 204 ,0,0
+9990.24,STUDY STN ,17-18(C) ,15-16 ,"Fondren, Frances ",Non-depart ,US 204 ,0,0
+9990.25,STUDY STN ,1-2(D) ,15-16 ,"Shillingford, Tyne ",Fine Arts ,US 204 ,0,0
+9990.26,STUDY STN ,3-4(D) ,15-16 ,"Shen, Byron ",Fine Arts ,US 204 ,0,0
+9990.27,STUDY STN ,"7-8(D,F) ",15-16 ,"Dickson, Kim ",Intl Lang ,US 204 ,0,0
+9990.28,STUDY STN ,9-10(D) ,15-16 ,"Baumann, Nancy ",Science ,US 204 ,0,0
+9990.29,STUDY STN ,11-12(D) ,15-16 ,"Brokaw, Debbie ",Non-depart ,US 204 ,0,0
+9990.3,STUDY STN ,13-15(D) ,15-16 ,"Chen, May ",Intl Lang ,US 204 ,0,0
+9990.31,STUDY STN ,16-18(D) ,15-16 ,"Abufadil, Mazen ",Fine Arts ,US 204 ,0,0
+9990.32,STUDY STN ,5-6(E) ,15-16 ,"Carey, Gregory ",Soc Study ,US 204 ,0,0
+9990.33,STUDY STN ,7-8(E) ,15-16 ,"Williams-McKnight, Eder ",English ,US 204 ,0,0
+9990.34,STUDY STN ,11-12(E) ,15-16 ,"Butler, Robert E. ",English ,US 204 ,0,0
+9990.35,STUDY STN ,15-16(E) ,15-16 ,"Moore, Anne Marie ",Math ,US 204 ,0,0
+9990.36,STUDY STN ,17-18(E) ,15-16 ,"Lowry, Ashlee ",Non-depart ,US 204 ,0,0
+9990.37,STUDY STN ,1-2(F) ,15-16 ,"Berglund, Michael ",English ,US 204 ,0,0
+9990.38,STUDY STN ,3-6(F) ,15-16 ,"Schmidt, Whitney '99 ",English ,US 204 ,0,0
+9990.39,STUDY STN ,11-12(F) ,15-16 ,"Ford, Joe ",Comp Sci ,US 204 ,0,0
+9990.4,STUDY STN ,13-14(F) ,15-16 ,"Scrutchins, Rev. Arthur ",Religion ,US 204 ,0,0
+9990.41,STUDY STN ,15-18(F) ,15-16 ,"Martin, Sam ",Science ,US 204 ,0,0
+6276.1,TECH STUDIES: SPECIAL TOPICS ,1-2(A) 7-8(F) ,S2 ,"Ford, Joe ",Comp Sci ,US 109 ,1,10
+6276.2,TECH STUDIES: SPECIAL TOPICS ,7-8(F) 11-12(C) ,S2 ,"Ford, Joe ",Comp Sci ,US 109 ,1,17
+7142.1,TECHNICAL THEATRE I ,"13-15(B,D) 16-18(F) ",S1 ,"Ely, Jody ",Fine Arts ,WAC Stage ,2,12
+7242.1,TECHNICAL THEATRE I ,"1-3(C,E) 4-6(A) ",S2 ,"Ely, Jody ",Fine Arts ,WAC Stage ,1,12
+7243.1,TECHNICAL THEATRE II ,1-3(D) 13-15(F) 16-18(B) ,15-16 ,"Ely, Jody ",Fine Arts ,WAC Stage ,1,18
+7144.1,TECHNICAL THEATRE III ,"1-3(A) 4-6(C,E) ",S1 ,"Ely, Jody ",Fine Arts ,WAC Stage ,1,12
+7244.1,TECHNICAL THEATRE III ,"13-15(C) 16-18(A,E) ",S2 ,"Ely, Jody ",Fine Arts ,WAC Stage ,0,10
+9363.1,TENNIS (BOYS) ,19(F) ,S2 ,"Rowland, Cathy ",PE/Ath ,US Gym ,18,99
+9362.1,TENNIS (GIRLS) ,19(F) ,S2 ,"Rowland, Cathy ",PE/Ath ,US Gym ,29,99
+4160.1,THE COLD WAR AND AMERICA ,"7-8(B,F) 10(E) 11-12(C,E) ",S1 ,"Reichard, Jamie  ",Soc Study ,US 230 ,16,24
+7120.1,THEATRE ARTS I ,"1-2(E) 5-6(A) 13-14(B,D) ",S1 ,"Sweeney, Gary ",Fine Arts ,WAC Newman ,11,13
+7022.1,THEATRE ARTS II ,"1-2(B) 5-6(D) 13-14(A,E) ",15-16 ,"Sweeney, Gary ",Fine Arts ,WAC Newman ,1,16
+7024.1,THEATRE ARTS III ,"1-2(B) 5-6(D) 13-14(A,E) ",15-16 ,"Sweeney, Gary ",Fine Arts ,WAC Newman ,5,16
+7044.1,THEATRE ARTS IV ,"1-2(B) 5-6(D) 13-14(A,E) ",15-16 ,"Sweeney, Gary ",Fine Arts ,WAC Newman ,0,16
+9365.1,TRACK (BOYS) ,19(F) ,S2 ,"Thompson, Brian ",PE/Ath ,US Gym ,35,99
+9364.1,TRACK (GIRLS) ,19(F) ,S2 ,"Thompson, Brian ",PE/Ath ,US Gym ,23,99
+2270.1,TRIGONOMETRY ,"9-10(A-B,D-F) ",S2 ,"Pounds, Stephanie ",Math ,US 119 ,10,18
+4023.1,UNITED STATES HISTORY ,1-2(A) 5-6(E) 13-14(F) 17-18(D) ,15-16 ,"Reichard, Jamie ",Soc Study ,US 230 ,13,18
+4023.2,UNITED STATES HISTORY ,"3-4(A,E) 15-16(D,F) ",15-16 ,"Reichard, Jamie ",Soc Study ,US 230 ,10,18
+4023.3,UNITED STATES HISTORY ,"1-2(D) 5-6(F) 17-18(A,E) ",15-16 ,"Reichard, Jamie ",Soc Study ,US 207 ,12,18
+4023.4,UNITED STATES HISTORY ,"7-8(D,F) 11-12(A,E) ",15-16 ,"Gross, Tag '87 ",Soc Study ,US 119 ,12,18
+4023.5,UNITED STATES HISTORY ,"1-2(F) 5-6(D) 13-14(A,E) ",15-16 ,"Gross, Tag '87 ",Soc Study ,US 230 ,12,18
+4023.6,UNITED STATES HISTORY ,"3-4(D,F) 15-16(A,E) ",15-16 ,"Gross, Tag '87 ",Soc Study ,US 230 ,12,18
+4023L.1 ,UNITED STATES HISTORY LECTURE ,10-12(B) ,15-16 ,"Gross, Tag '87  ",Soc Study ,LectureCtr ,24,40
+4023L.2 ,UNITED STATES HISTORY LECTURE ,7-9(B) ,15-16 ,"Gross, Tag '87  ",Soc Study ,LectureCtr ,25,40
+4023L.3 ,UNITED STATES HISTORY LECTURE ,1-3(B) ,15-16 ,"Gross, Tag '87  ",Soc Study ,LectureCtr ,22,40
+9166.1,VOLLEYBALL ,19(D) ,S1 ,"Rowland, Cathy ",PE/Ath ,US Gym ,23,99
+9999T.1 ,xSports Class ,19(A) ,S1 ,"1test, test ",,USGym2 ,1,10
+9993T.1 ,YL AP Lang ,1(B) ,15-16 ,"1test, test ",,US2228 ,1,10
+9995T.1 ,YL Half Credit Class ,1(D) ,15-16 ,"1test, test ",,US2229 ,1,10
+9991T.1 ,YL Math Class ,1(A) ,15-16 ,"Teacher, Ima ",,US2229 ,1,10
+9113.1,YOGA ,19(D) ,S1 ,"Beckwith, Jane ",Soc Study ,WAC Dance ,16,99
+9213.1,YOGA ,19(E) ,S2 ,"Beckwith, Jane ",Soc Study ,WAC Dance ,15,99
